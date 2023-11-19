@@ -1,0 +1,10 @@
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\bin\Debug\Practice5-1.exe.config
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\bin\Debug\Practice5-1.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\bin\Debug\Practice5-1.pdb
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5-1.csproj.AssemblyReference.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5_1.Form1.resources
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5_1.Properties.Resources.resources
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5-1.csproj.GenerateResource.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5-1.csproj.CoreCompileInputs.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5-1.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice5-1\Practice5-1\obj\Debug\Practice5-1.pdb

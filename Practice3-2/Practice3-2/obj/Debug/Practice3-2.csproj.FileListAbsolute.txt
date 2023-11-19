@@ -1,0 +1,7 @@
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\bin\Debug\Practice3-2.exe.config
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\bin\Debug\Practice3-2.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\bin\Debug\Practice3-2.pdb
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\obj\Debug\Practice3-2.csproj.AssemblyReference.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\obj\Debug\Practice3-2.csproj.CoreCompileInputs.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\obj\Debug\Practice3-2.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\作業\Practice3-2\Practice3-2\obj\Debug\Practice3-2.pdb

@@ -1,0 +1,14 @@
+D:\window-programming\Practice1-1\Practice1-1\obj\Debug\Practice1-1.csproj.AssemblyReference.cache
+D:\window-programming\Practice1-1\Practice1-1\obj\Debug\Practice1-1.csproj.CoreCompileInputs.cache
+D:\window-programming\Practice1-1\Practice1-1\bin\Debug\Practice1-1.exe.config
+D:\window-programming\Practice1-1\Practice1-1\bin\Debug\Practice1-1.exe
+D:\window-programming\Practice1-1\Practice1-1\bin\Debug\Practice1-1.pdb
+D:\window-programming\Practice1-1\Practice1-1\obj\Debug\Practice1-1.exe
+D:\window-programming\Practice1-1\Practice1-1\obj\Debug\Practice1-1.pdb
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\bin\Debug\Practice1-1.exe.config
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\bin\Debug\Practice1-1.exe
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\bin\Debug\Practice1-1.pdb
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\obj\Debug\Practice1-1.csproj.AssemblyReference.cache
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\obj\Debug\Practice1-1.csproj.CoreCompileInputs.cache
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\obj\Debug\Practice1-1.exe
+D:\OneDrive - 國立成功大學 National Cheng Kung University\112-1\Window Programming\作業\Practice1-1\Practice1-1\obj\Debug\Practice1-1.pdb

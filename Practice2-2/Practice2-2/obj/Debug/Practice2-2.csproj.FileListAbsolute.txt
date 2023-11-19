@@ -1,0 +1,14 @@
+D:\Window-Programming\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe.config
+D:\Window-Programming\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe
+D:\Window-Programming\Practice2-2\Practice2-2\bin\Debug\Practice2-2.pdb
+D:\Window-Programming\Practice2-2\Practice2-2\obj\Debug\Practice2-2.csproj.AssemblyReference.cache
+D:\Window-Programming\Practice2-2\Practice2-2\obj\Debug\Practice2-2.csproj.CoreCompileInputs.cache
+D:\Window-Programming\Practice2-2\Practice2-2\obj\Debug\Practice2-2.exe
+D:\Window-Programming\Practice2-2\Practice2-2\obj\Debug\Practice2-2.pdb
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe.config
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\bin\Debug\Practice2-2.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\bin\Debug\Practice2-2.pdb
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\obj\Debug\Practice2-2.csproj.AssemblyReference.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\obj\Debug\Practice2-2.csproj.CoreCompileInputs.cache
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\obj\Debug\Practice2-2.exe
+C:\Users\lilwe\OneDrive - 國立成功大學 National Cheng Kung University\112-1\視窗程式設計\Practice2-2\Practice2-2\obj\Debug\Practice2-2.pdb
