@@ -1,0 +1,12 @@
+D:\112-1\Window Programming\Homework\Practice8\Practice8\bin\Debug\Database1.mdf
+D:\112-1\Window Programming\Homework\Practice8\Practice8\bin\Debug\Database1_log.ldf
+D:\112-1\Window Programming\Homework\Practice8\Practice8\bin\Debug\Practice8.exe.config
+D:\112-1\Window Programming\Homework\Practice8\Practice8\bin\Debug\Practice8.exe
+D:\112-1\Window Programming\Homework\Practice8\Practice8\bin\Debug\Practice8.pdb
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.csproj.AssemblyReference.cache
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.Form1.resources
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.Properties.Resources.resources
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.csproj.GenerateResource.cache
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.csproj.CoreCompileInputs.cache
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.exe
+D:\112-1\Window Programming\Homework\Practice8\Practice8\obj\Debug\Practice8.pdb
